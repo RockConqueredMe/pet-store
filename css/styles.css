@@ -8,7 +8,9 @@ body{
   margin-top: 0;
   height: 420px;
 }
-
+#fontfix {
+  font-family: 'Satisfy', cursive;
+}
 .container>h2 {
   text-align: center;
   color:white;
