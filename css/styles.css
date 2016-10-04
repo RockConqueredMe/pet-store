@@ -15,6 +15,13 @@ body{
   text-align: center;
   color:#FF827B;
 }
+.navtext {
+  color:#8EC8ED !important;
+}
+.logo-image {
+  display: block;
+  margin-left: 0;
+}
 .container>h2 {
   text-align: center;
   color:#fff;
